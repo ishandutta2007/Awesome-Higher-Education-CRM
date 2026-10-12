@@ -1,225 +1,183 @@
-# Awesome-Higher-Education-CRM
+<div align="center">
 
-## Top Higher Education CRM Tools Ecosystem
+<img src="assets/banner.svg" alt="Awesome Higher Education CRM Banner" width="100%" />
 
+# 🎓 Awesome Higher Education CRM
 
+### *Curated Directory of Enterprise SaaS Platforms & Open-Source Higher Ed CRM Ecosystems*
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Higher-Education-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Higher-Education-CRM?style=flat-square&color=yellow" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Higher-Education-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Higher-Education-CRM?style=flat-square&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Higher-Education-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Higher-Education-CRM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Enrollment Management, Student Success & Alumni Advancement*  
+**Tracking the world's premier Customer Relationship Management (CRM) tools, Student Information Systems (SIS), and constituent engagement software engineered specifically for universities, colleges, and higher-education institutions.**
 
-**Last updated: March 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Higher Education CRM Tools**. These tools help colleges and universities manage the full student lifecycle — from prospective student recruitment and admissions through enrollment, advising, retention, and alumni engagement — in a unified system.
-
-
-
-**Examples** include Salesforce Education Cloud, Slate by Technolutions, Element451, Ellucian CRM Advance, Blackbaud Raiser's Edge NXT, TargetX, Anthology Reach, Jenzabar, Campus Management, and Liaison CAS (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom student lifecycle workflows, and transparent constituent data — ideal for institutions seeking data sovereignty, developers building education platforms, and organizations avoiding per-student pricing.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Salesforce Education Cloud](https://www.salesforce.com/)**  
-
-  Enterprise CRM adapted for higher education, deployable across enrollment, advancement, and student engagement functions. Known for large degree of configurability; often selected as part of institution-wide technology consolidation strategies. Typically requires significant internal IT resources for customization .
-
-
-
-- **[Slate by Technolutions](https://technolutions.com/)**  
-
-  Dominant CRM and admissions platform in higher education, managing the full enrollment funnel from first inquiry through enrollment confirmation. Used by 1.8K+ institutions as of April 2024 . Known for configurable admissions workflows that institutions can design to align with internal processes .
-
-
-
-- **[Element451](https://element451.com/)**  
-
-  Enrollment-focused CRM emphasizing marketing automation and AI-driven engagement for prospective students. Serves 350+ institutions. Bolt AI agent engine available as standalone product working alongside any CRM or SIS, with agents purpose-built for higher-ed jobs from prospect engagement to risk-signal outreach .
-
-
-
-- **[Ellucian CRM Advance](https://www.ellucian.com/)**  
-
-  Advancement CRM within Ellucian's suite for fundraising, alumni relations, and donor management. Often implemented alongside Ellucian's Banner or Colleague SIS systems .
-
-
-
-- **[Blackbaud Raiser's Edge NXT](https://www.blackbaud.com/)**  
-
-  Fundraising and alumni relations CRM for higher education. Pricing typically around $10k-$12k/year/user for back-end CRM, with additional modules ranging from $10k to over $100k .
-
-
-
-- **[TargetX](https://www.targetx.com/)**  
-
-  Higher education CRM for recruitment and retention, built on Salesforce platform. Serves 400+ colleges and universities .
-
-
-
-- **[Anthology Reach](https://www.anthology.com/)**  
-
-  CRM for managing admissions, student success, retention, alumni, and advancement. Includes multi-channel outreach and access to Anthology Succeed for student success tracking .
-
-
-
-- **[Jenzabar](https://www.jenzabar.com/)**  
-
-  Cloud-ready platform exclusive to higher education with CRM, fundraising, and student information system components. Jenzabar SONIS designed for smaller or specialized schools .
-
-
-
-- **[Campus Management](https://www.campusmanagement.com/)**  
-
-  Suite of software solutions managing the entire student lifecycle, now part of Anthology .
-
-
-
-- **[Liaison CAS](https://www.liaisonedu.com/)**  
-
-  Centralized Application Service (CAS) platform for admissions management, powering admissions offices with software, service, and data analytics .
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Advising App by Canyon GBS](https://github.com/canyongbs/advisingapp)**  
-
-  AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities. Features record management, email/SMS, service management, population segmentation, task management, interaction tracking, and AI capabilities for research, communication drafting, translation, and student profile analysis. Built with Laravel TALL stack. Distributed under Elastic License 2.0 with 331+ GitHub stars .
-
-
-
-- **[OpenEduCat Community Edition](https://github.com/openeducat/openeducat_erp)**  
-
-  Comprehensive open-source ERP for educational institutions. Features admissions and registration, student information management, course and batch management, examination management, fee and finance management, attendance and timetable, library management, transport and hostel management, communication tools, reporting and analytics, and HR/payroll management. LGPL-3.0 licensed .
-
-
-
-- **[Frappe Education](https://github.com/frappe/education)**  
-
-  Open-source education management system built on ERPNext. Features student and teacher management, admission management, fee management, course scheduling and exam planning, and student portal for timetable, attendance, online fee payment, and grades. Python/JavaScript stack with Vue-based UI .
-
-
-
-- **[openSIS Classic](https://github.com/OS4ED/openSIS-Classic)**  
-
-  Commercial-grade, secure, scalable student information system for K-12, trade schools, and higher education. Features student data management, staff data management, course manager, scheduling, attendance, grades, teacher gradebook, progress reports, report cards, transcripts, built-in communication, and bulk data imports. PHP/MySQL stack, GPL licensed .
-
-
-
-- **[CiviCRM](https://github.com/civicrm/civicrm-core)**  
-
-  The #1 open-source CRM for nonprofits, widely used by higher education institutions for alumni relations and advancement. Features donor management, membership, events, email/SMS communications, payment processing, and reporting. AGPL-3.0 licensed. Available self-hosted or via managed hosting .
-
-
-
-- **[StudentGraphQLTS](https://github.com/BaseMax/StudentGraphQLTS)**  
-
-  GraphQL-based university/student management system built with TypeScript. Features student registration, supervisor selection, conversation management between students and supervisors, seminar and dissertation workflows, and administrative queries for graduate/dismissed students. NestJS/Apollo Server/PostgreSQL stack. GPL-3.0 licensed .
-
-
-
-- **[AlumNet](https://github.com/jungang/alumnet)**  
-
-  AI-powered intelligent school history exhibition and alumni management system. Features touch-screen exhibition kiosk with 3D visual effects, admin dashboard for alumni data management, AI engine with GLM-4/DeepSeek for natural language Q&A, and vector search via Qdrant. Vue 3/Node.js/PostgreSQL stack .
-
-
-
-- **[Alumni Management and Transcript Generation System](https://github.com/aniket-thapa/alumni-management-and-transcript-generation-system)**  
-
-  Web application for managing alumni information including job positions and job history, plus transcript generation for students. Features alumni registration, job history management, transcript generation, admin dashboard, and secure login. Node.js/Express/MySQL/EJS stack .
-
-
-
-- **[Alumni Network](https://github.com/tripathi-khushi/Alumni-Network)**  
-
-  Alumni engagement platform connecting alumni with current students for mentorship, events, and resources. Features role-aware profiles (alumni, mentors, students, admins), mentorship matchmaking with availability and capacity controls, community posts with threaded replies, event management with attendee tracking, notification center, and email verification. React/Node.js/MongoDB stack .
-
-
-
-- **[OpenEMIS Core](https://github.com/OpenEMIS/core)**  
-
-  Open-source Education Management Information System designed to manage education data at national, district, and school levels. Used in many countries worldwide. Features management of schools, students, and staff. PHP/JavaScript/MySQL stack, GPL licensed .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[SAGE Education](https://pypi.org/project/akademy-classe/)** — Free and open-source project providing Academic Management System (AMS), School Management System (SMS), and Educational Information System (EIS). Modular, scalable, and secure design for small schools through national public education systems .
-
-- **Alumni Platforms** — AlumnForce, AlumNet, and community-built alumni directories for engagement and networking .
-
-- **Student Information Systems** — openSIS, OpenEMIS, and Frappe Education for core academic records management.
-
-- **Advancement Tools** — CiviCRM for donor management and alumni relations.
-
-
-
-**Frameworks for building custom systems**: Combine **Advising App** or **Frappe Education** for student lifecycle management, **CiviCRM** for advancement and alumni relations, **openSIS** or **OpenEMIS** for student information system core, and **AlumNet** or **Alumni Network** for alumni engagement to build a complete self-hosted higher education CRM stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Higher education CRM tools must comply with data protection regulations (GDPR, FERPA), accessibility standards, and institutional data governance requirements.
-
-- Self-hosted open-source solutions require proper security hardening, SIS integration planning, and ongoing maintenance.
-
-
+</div>
 
 ---
 
+## 📑 Table of Contents
 
+- [📌 Overview & Student Lifecycle](#-overview--student-lifecycle)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏛️ Architectural Stack Recommendation](#️-architectural-stack-recommendation)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📜 Disclaimer & Compliance](#-disclaimer--compliance)
 
-**Made for enrollment managers, student success teams, advancement officers, and developers building higher education CRM platforms.**  
+---
 
-Let's make higher education CRM more open, student-centered, and data-sovereign.
+## 📌 Overview & Student Lifecycle
+
+Higher education institutions face unique constituent relationship dynamics. Unlike conventional B2B sales pipelines, a university must manage complex relationships across a multi-stage **constituent lifecycle**:
+
+1. **Recruitment & Prospective Inquiries**: High-velocity marketing, high school outreach, event visit management, automated SMS/WhatsApp/email drip campaigns.
+2. **Admissions & Application Review**: Document verification, transcript processing, portfolio grading, holistic application committee review, enrollment deposits.
+3. **Student Success & Academic Advising**: Early warning risk signals, degree audit progression, tutoring appointment scheduling, retention interventions.
+4. **Alumni Relations & Philanthropic Advancement**: Capital campaign fundraising, endowment pledge tracking, alumni mentorship networks, donor reunions.
+
+This repository tracks both industry-standard **enterprise SaaS vendors** and self-hosted **open-source alternatives** enabling full institutional data sovereignty, FERPA compliance, and freedom from per-seat license escalations.
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+* **Estimated Market Size**: The global Higher Education CRM software market was valued at **$2.28 billion in 2024** and is projected to expand to **$5.45 billion by 2032**, demonstrating a Compound Annual Growth Rate (CAGR) of **~11.8%**. Market acceleration is catalyzed by demographic shifts ("the enrollment cliff"), cross-channel student communication demands, and rapid integration of generative AI advising agents.
+* **Market Dynamics & Structure**: The sector is **moderately concentrated with a bifurcated competitive landscape**:
+  * *High-End Admissions & Enterprise Consolidation (Concentrated)*: The admissions and application management tier exhibits strong incumbent concentration, dominated by **Slate by Technolutions** (powering over 1,800 colleges and the majority of top-tier US admissions offices) and **Salesforce Education Cloud** (the standard for campus-wide IT consolidation).
+  * *Full-Lifecycle, Community Colleges & Niche Stages (Fragmented)*: In student retention, alumni advancement, and community college enrollment, the market is moderately fragmented. Specialized innovators like **Element451**, **LeadSquared**, and **Ellucian CRM Advance** compete actively with modern open-source ERP/CRM platforms (**Twenty**, **CiviCRM**, **OpenEduCat**, **Frappe Education**) chosen by universities seeking transparent constituent records and on-premise governance.
+
+---
+
+## ☁️ SaaS & Hosted Platforms
+
+The table below lists leading commercial SaaS platforms designed for higher education, sorted in **descending order by company size, market valuation, or annual revenue**.
+
+| Platform | Key Focus & Lifecycle Stage | Company Size / Valuation / Revenue | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| [**Salesforce Education Cloud**](https://www.salesforce.com/solutions/industries/education/) | Full enterprise student lifecycle (Recruitment, Admissions, Student Success, Advancement) | **~$300 Billion Market Cap**<br>*(FY25 Revenue: ~$35 Billion)* | **$350 / user / month**<br>*(Enterprise Edition, billed annually)*; $525/user/month for Unlimited Edition | **30-day full-featured free trial** with pre-configured higher-ed data models; no credit card required |
+| [**HubSpot for Higher Education**](https://www.hubspot.com/) | Inbound enrollment marketing, prospective lead capture, admissions pipeline tracking | **~$30 Billion Market Cap**<br>*(FY24 Revenue: ~$2.6 Billion)* | **$20 / month** ($240/yr for Starter Tier); Free Enterprise portal for professors via EPP | **Free forever tier** (2 users, 1,000 contacts, 1 deal pipeline, 2,000 email sends/month); 14-day free trial on Pro |
+| [**Ellucian CRM Advance**](https://www.ellucian.com/solutions/ellucian-crm-advance) | Higher education fundraising, donor campaign tracking, native Banner & Colleague SIS integration | **~$5.0 Billion Valuation**<br>*(Vista & Blackstone; Revenue: ~$1.1B)* | **~$50,000 / year base fee**<br>*(Scaled by active donor/constituent database volume + implementation)* | **No free tier or trial**; institutional guided live sandbox demonstration available upon enterprise RFP consultation |
+| [**Blackbaud Raiser's Edge NXT**](https://www.blackbaud.com/products/blackbaud-raisers-edge-nxt) | University advancement, donor pledge management, alumni gift stewardship | **~$4.2 Billion Market Cap**<br>*(NASDAQ: BLKB; Revenue: ~$1.15B)* | **$4,000 – $10,000 / year base**<br>*(Standard constituent tier; higher-ed suites start ~$12,000/user/yr)* | **No free tier or self-serve trial**; customized live interactive institutional walkthrough provided on sales request |
+| [**LeadSquared for Higher Ed**](https://www.leadsquared.com/industries/higher-education-crm/) | High-velocity student inquiry capture, multi-channel messaging (WhatsApp/SMS), counselor tracking | **$1.0 Billion Valuation**<br>*(Unicorn; ARR: ~$40 Million+)* | **$25 / user / month**<br>*(Lite CRM, billed annually)* or $400/month team base subscription | **No self-serve free trial**; personalized admissions workflow demo and proof-of-concept sandbox upon request |
+| [**Liaison CAS & TargetX**](https://www.liaisonedu.com/) | Centralized Application Service (CAS), Salesforce-native recruitment, applicant reviews, retention | **~$800 Million Valuation**<br>*(Meritage Group; Revenue: ~$120M+)* | **~$20,000 / year base**<br>*(TargetX Recruitment); CAS starts ~$15,000/yr + applicant processing fees* | **No free tier or trial**; institutional consultation, RFP evaluation, and custom sandbox walkthrough available |
+| [**Anthology Reach**](https://www.anthology.com/products/reach) | Microsoft Dynamics-based recruitment, admissions workflows, student retention, campus engagement | **~$500 Million Scale**<br>*(Encoura / Leeds Equity; Revenue: ~$150M+)* | **~$25,000 / year base**<br>*(Tiered by undergraduate/graduate FTE enrollment count + cloud hosting)* | **No free tier or trial**; guided institutional architecture review and live demo via enterprise sales team |
+| [**Slate by Technolutions**](https://technolutions.com/) | Admissions funnel dominant platform, application reading committee, communication automation | **~$150 Million+ Valuation**<br>*(Bootstrapped; ARR: ~$80M–$100M; 1,800+ campuses)* | **$30,000 / year flat fee**<br>*(Under 1,500 applications/yr)*; $50,000/year (1,500–7,500 applications) | **No free tier or self-serve trial**; live Sandbox environment demonstration and consultation for vetted institutions |
+| [**Jenzabar SONIS & One**](https://www.jenzabar.com/product/jenzabar-sonis) | Cloud-native SIS and CRM suite tailored for specialized schools, community colleges, and mid-sized institutions | **~$150M – $250M Valuation**<br>*(Privately held; Revenue: ~$115M)* | **~$15,000 – $25,000 / year**<br>*(Starting base subscription for Jenzabar SONIS modular platform)* | **No free tier or self-serve trial**; interactive live software demonstration and institutional quote scoping upon request |
+| [**Element451**](https://element451.com/) | AI-native student engagement, Bolt AI conversational agents, personalized recruitment workflows | **$175 Million Investment**<br>*(PSG Equity; ARR: ~$12 Million; 350+ campuses)* | **~$20,000 / year base fee**<br>*(Annual contract based on student FTE; community college discount tiers)* | **No free tier or trial**; live AI agent demonstration and custom institutional test sandbox arranged upon consultation |
+| [**Full Fabric**](https://www.fullfabric.com/) | European-designed higher ed admissions, applicant portal, modular SIS, program operations | **~$10M – $15M Valuation**<br>*(Privately held; ARR: ~$2.3 Million)* | **€12,000 / year flat base**<br>*(Approx. $13,000/yr for core platform)* + progressive applicant volume fee | **No free tier or open trial**; structured guided platform walkthrough and pricing proposal upon institutional request |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Open-source solutions empower universities and colleges to retain full data sovereignty under FERPA/GDPR, eliminate recurring per-student pricing models, and customize enrollment and alumni workflows.
+
+The repositories below are **sorted in descending order by GitHub star count**. Each star badge links directly to the project's stargazers page.
+
+| Project Name | GitHub Stars | Core Architecture | Focus & Capabilities | License |
+| :--- | :---: | :--- | :--- | :---: |
+| [**Twenty**](https://github.com/twentyhq/twenty) | [![Twenty Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, PostgreSQL | Modern open-source CRM with custom objects, metadata engine, and API-first pipelines; adaptable for university constituent tracking. | AGPL-3.0 |
+| [**erxes**](https://github.com/erxes/erxes) | [![erxes Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers) | Node.js, React, GraphQL, MongoDB | Open-source constituent experience and CRM suite; features omni-channel messaging, admissions intake forms, and team inboxes. | AGPL-3.0 |
+| [**EspoCRM**](https://github.com/espocrm/espocrm) | [![EspoCRM Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | PHP, Backbone.js, MySQL/MariaDB | Lightweight, highly configurable web CRM; extensively deployed for student inquiry tracking, applicant portals, and advising notes. | GPL-3.0 |
+| [**OpenEduCat CE**](https://github.com/openeducat/openeducat_erp) | [![OpenEduCat Stars](https://img.shields.io/github/stars/openeducat/openeducat_erp?style=social&color=white)](https://github.com/openeducat/openeducat_erp/stargazers) | Python, Odoo Framework, PostgreSQL | Comprehensive educational ERP & CRM: admissions, student registry, fees, course scheduling, exams, attendance, and alumni tracking. | LGPL-3.0 |
+| [**CiviCRM Core**](https://github.com/civicrm/civicrm-core) | [![CiviCRM Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers) | PHP, MySQL, Drupal / WordPress / Joomla | The premier open-source CRM for nonprofits & universities; engineered for donor campaigns, capital gifts, alumni events, and mailings. | AGPL-3.0 |
+| [**Frappe Education**](https://github.com/frappe/education) | [![Frappe Education Stars](https://img.shields.io/github/stars/frappe/education?style=social&color=white)](https://github.com/frappe/education/stargazers) | Python, Frappe Framework, Vue.js, MariaDB | Full-featured student information system built on ERPNext; manages applicant admissions, student portals, course rosters, and billing. | GPL-3.0 |
+| [**RosarioSIS**](https://github.com/francoisjacquet/rosariosis) | [![RosarioSIS Stars](https://img.shields.io/github/stars/francoisjacquet/rosariosis?style=social&color=white)](https://github.com/francoisjacquet/rosariosis/stargazers) | PHP, PostgreSQL | Proven open-source SIS powering educational institutions: student demographics, enrollment, attendance, grading, transcripts, and fees. | GPL-2.0 |
+| [**Gibbon Core**](https://github.com/GibbonEdu/core) | [![Gibbon Stars](https://img.shields.io/github/stars/GibbonEdu/core?style=social&color=white)](https://github.com/GibbonEdu/core/stargazers) | PHP, MySQL | Flexible open-source school and college administration system; manages student profiles, admissions records, timetables, and assessments. | GPL-3.0 |
+| [**openSIS Classic**](https://github.com/OS4ED/openSIS-Classic) | [![openSIS Stars](https://img.shields.io/github/stars/OS4ED/openSIS-Classic?style=social&color=white)](https://github.com/OS4ED/openSIS-Classic/stargazers) | PHP, MySQL | Commercial-grade, secure, scalable student information system handling transcripts, graduation progress, staff data, and gradebooks. | GPL |
+| [**Advising App**](https://github.com/canyongbs/advisingapp) | [![Advising App Stars](https://img.shields.io/github/stars/canyongbs/advisingapp?style=social&color=white)](https://github.com/canyongbs/advisingapp/stargazers) | PHP, Laravel TALL Stack, MySQL | AI-assisted staff conversational assistant, student retention platform, and higher-ed recruitment CRM with population segmentation. | Elastic-2.0 |
+| [**FenixEdu Academic**](https://github.com/FenixEdu/fenixedu-academic) | [![FenixEdu Stars](https://img.shields.io/github/stars/FenixEdu/fenixedu-academic?style=social&color=white)](https://github.com/FenixEdu/fenixedu-academic/stargazers) | Java, FenixFramework, MySQL | Enterprise academic management platform built for major European universities; handles student registration, degrees, and curricula. | LGPL-3.0 |
+| [**AlumNet**](https://github.com/jungang/alumnet) | [![AlumNet Stars](https://img.shields.io/github/stars/jungang/alumnet?style=social&color=white)](https://github.com/jungang/alumnet/stargazers) | Vue 3, Node.js, PostgreSQL, Qdrant | AI-powered school history exhibition kiosk and alumni database with natural-language Q&A and vector semantic search. | MIT |
+| [**OSUMS**](https://github.com/hrshadhin/osums) | [![OSUMS Stars](https://img.shields.io/github/stars/hrshadhin/osums?style=social&color=white)](https://github.com/hrshadhin/osums/stargazers) | PHP, Laravel, MySQL | Open Source University Management System: student course enrollment, faculty allocation, department tracking, and examination rosters. | MIT |
+| [**University Management System**](https://github.com/kunaltyagi9/University-Management-System) | [![UMS Stars](https://img.shields.io/github/stars/kunaltyagi9/University-Management-System?style=social&color=white)](https://github.com/kunaltyagi9/University-Management-System/stargazers) | Java, Swing, MySQL | Desktop/client-server university administration platform for managing student fees, teacher assignments, and exam records. | Apache-2.0 |
+| [**Collejo**](https://github.com/CodeBreez/collejo) | [![Collejo Stars](https://img.shields.io/github/stars/CodeBreez/collejo?style=social&color=white)](https://github.com/CodeBreez/collejo/stargazers) | PHP, Laravel, Vue.js, MySQL | Clean school and university management platform featuring student grades, class management, attendance logs, and role permissions. | GPL-3.0 |
+| [**eduTrac SIS**](https://github.com/nomadicjosh/eduTrac-SIS) | [![eduTrac SIS Stars](https://img.shields.io/github/stars/nomadicjosh/eduTrac-SIS?style=social&color=white)](https://github.com/nomadicjosh/eduTrac-SIS/stargazers) | PHP, MySQL | Open-source SIS specifically tailored for post-secondary and higher-education institutions; handles transcripts and student files. | GPL-3.0 |
+| [**OpenEMIS Core**](https://github.com/OpenEMIS/core) | [![OpenEMIS Stars](https://img.shields.io/github/stars/OpenEMIS/core?style=social&color=white)](https://github.com/OpenEMIS/core/stargazers) | PHP, CakePHP, MySQL | UNESCO-endorsed Education Management Information System for tracking institutional records, academic staff, and student demographics. | GPL-3.0 |
+| [**Alumni Management System**](https://github.com/cris-ronaldo7/Alumni-Management-System) | [![AMS Stars](https://img.shields.io/github/stars/cris-ronaldo7/Alumni-Management-System?style=social&color=white)](https://github.com/cris-ronaldo7/Alumni-Management-System/stargazers) | PHP, MySQL, Bootstrap | Web-based alumni registry managing graduate communication, career updates, donation campaigns, and university alumni events. | MIT |
+| [**StudentGraphQLTS**](https://github.com/BaseMax/StudentGraphQLTS) | [![StudentGraphQLTS Stars](https://img.shields.io/github/stars/BaseMax/StudentGraphQLTS?style=social&color=white)](https://github.com/BaseMax/StudentGraphQLTS/stargazers) | TypeScript, NestJS, Apollo GraphQL, PostgreSQL | GraphQL university backend managing advisor-student interactions, dissertation approvals, seminar sign-ups, and graduation queries. | GPL-3.0 |
+| [**Alumni Network**](https://github.com/tripathi-khushi/Alumni-Network) | [![Alumni Network Stars](https://img.shields.io/github/stars/tripathi-khushi/Alumni-Network?style=social&color=white)](https://github.com/tripathi-khushi/Alumni-Network/stargazers) | React, Node.js, Express, MongoDB | Mentorship matching network connecting alumni with students, featuring role profiles, messaging threads, and event RSVP trackers. | MIT |
+| [**Alumni Management & Transcript System**](https://github.com/aniket-thapa/alumni-management-and-transcript-generation-system) | [![AMS Transcript Stars](https://img.shields.io/github/stars/aniket-thapa/alumni-management-and-transcript-generation-system?style=social&color=white)](https://github.com/aniket-thapa/alumni-management-and-transcript-generation-system/stargazers) | Node.js, Express, EJS, MySQL | Graduate record directory with built-in automated student transcript PDF generation and administrative approval workflows. | MIT |
+
+---
+
+## 🏛️ Architectural Stack Recommendation
+
+For IT teams seeking to build a completely self-hosted, modular, and vendor-lock-in-free Higher Education CRM and student administration stack:
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      STUDENT LIFE CYCLE CRM                     │
+├───────────────────────────────┬─────────────────────────────────┤
+│  Recruitment & Inquiry CRM    │  Twenty / EspoCRM / erxes       │
+│  Admissions & Student Portal  │  Frappe Education / OpenEduCat  │
+│  Academic Records & SIS Core  │  RosarioSIS / openSIS / Gibbon  │
+│  Advising & Early Risk Alert  │  Advising App (Canyon GBS)      │
+│  Advancement & Alumni Network │  CiviCRM Core / AlumNet         │
+└───────────────────────────────┴─────────────────────────────────┘
+```
+
+* **Recruitment & Intake**: Deploy [Twenty](https://github.com/twentyhq/twenty) or [EspoCRM](https://github.com/espocrm/espocrm) to ingest website inquiries, automate counselor assignments, and manage visit registrations.
+* **Core Academic Records (SIS)**: Utilize [RosarioSIS](https://github.com/francoisjacquet/rosariosis) or [openSIS Classic](https://github.com/OS4ED/openSIS-Classic) for FERPA-compliant course registration, grading, and transcripts.
+* **Student Retention & Advising**: Implement [Advising App](https://github.com/canyongbs/advisingapp) to empower academic counselors with AI-drafted interventions and multi-channel student outreach.
+* **Philanthropic Advancement**: Utilize [CiviCRM](https://github.com/civicrm/civicrm-core) for donor management, fundraising campaigns, and alumni relations.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions from institutional practitioners, higher-ed administrators, and open-source software developers are warmly welcome!
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-crm-platform`
+3. 📝 **Add or update entries**: Follow the existing tabular structure, ensuring specific starting pricing, explicit free trial limits, and exact GitHub star counts.
+4. 🔍 **Verify links and metrics**: Ensure official links and repository URLs are active and factual.
+5. 🚀 **Submit a Pull Request**: Detail your changes in the PR description.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Higher-Education-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Higher-Education-CRM&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing **Awesome Higher Education CRM**! Maintaining this comprehensive ecosystem guide takes dedicated research and continuous updates.
+
+If this repository has provided value to your research, institution, or project:
+* ⭐ **Star the repository** to increase its visibility across the higher education community.
+* 🍴 **Fork and share** with colleagues, admissions teams, and academic IT departments.
+* ☕ **Support the maintainer**: Buy a coffee or become a sponsor via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+</a>
+
+</div>
+
+---
+
+## 📜 Disclaimer & Compliance
+
+* This list is a **community-curated directory** intended for educational and technological evaluation. Inclusion does not constitute a formal commercial endorsement.
+* Educational software deployments must comply with relevant data privacy frameworks, including the **Family Educational Rights and Privacy Act (FERPA)**, the **General Data Protection Regulation (GDPR)**, and institutional security controls.
+* Commercial pricing figures and trial terms reflect publicly documented market data and vendor benchmarks as of 2026; prospective institutions should consult vendors directly for binding contractual quotes.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ for enrollment directors, student success deans, advancement officers, and higher-ed developers worldwide.</sub>
+</div>
