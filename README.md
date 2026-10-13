@@ -82,9 +82,9 @@ The table below lists leading commercial SaaS platforms designed for higher educ
 
 Open-source solutions empower universities and colleges to retain full data sovereignty under FERPA/GDPR, eliminate recurring per-student pricing models, and customize enrollment and alumni workflows.
 
-The repositories below are **sorted in descending order by GitHub star count**. Each star badge links directly to the project's stargazers page.
+The repositories below are **sorted in descending order by GitHub Stars_Count**. Each Stars_Badge links directly to the project's stargazers page.
 
-| Project Name | GitHub Stars | Core Architecture | Focus & Capabilities | License |
+| Project Name | GitHub_Stars | Core Architecture | Focus & Capabilities | License |
 | :--- | :---: | :--- | :--- | :---: |
 | [**Twenty**](https://github.com/twentyhq/twenty) | [![Twenty Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, PostgreSQL | Modern open-source CRM with custom objects, metadata engine, and API-first pipelines; adaptable for university constituent tracking. | AGPL-3.0 |
 | [**erxes**](https://github.com/erxes/erxes) | [![erxes Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers) | Node.js, React, GraphQL, MongoDB | Open-source constituent experience and CRM suite; features omni-channel messaging, admissions intake forms, and team inboxes. | AGPL-3.0 |
@@ -139,7 +139,7 @@ Contributions from institutional practitioners, higher-ed administrators, and op
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-crm-platform`
-3. 📝 **Add or update entries**: Follow the existing tabular structure, ensuring specific starting pricing, explicit free trial limits, and exact GitHub star counts.
+3. 📝 **Add or update entries**: Follow the existing tabular structure, ensuring specific starting pricing, explicit free trial limits, and exact GitHub Stars_Counts.
 4. 🔍 **Verify links and metrics**: Ensure official links and repository URLs are active and factual.
 5. 🚀 **Submit a Pull Request**: Detail your changes in the PR description.
 
